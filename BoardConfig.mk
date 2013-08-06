@@ -129,6 +129,9 @@ TARGET_BOOTANIMATION_USE_RGB565 := true
 # SkTextBox for libtvout
 BOARD_USES_SKTEXTBOX := true
 
+# Enable WebGl & WebSocket on Default Browser
+ENABLE_WEBGL := true
+
 # Hardware rendering
 USE_OPENGL_RENDERER := true
 
